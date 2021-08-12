@@ -1,0 +1,6 @@
+end = int(input())
+  
+for num in range(2, end + 1):
+      
+    if num % 2 == 0:
+        print(num, end = "\n ")
